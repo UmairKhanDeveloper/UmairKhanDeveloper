@@ -27,8 +27,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/UmairKhanDeveloper"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="UmairKhanDeveloper" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umairkhandeveloper&show_icons=true&locale=en&layout=compact" alt="umairkhandeveloper" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=umairkhandeveloper&show_icons=true&locale=en" alt="umairkhandeveloper" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairkhandeveloper&" alt="umairkhandeveloper" /></p>
